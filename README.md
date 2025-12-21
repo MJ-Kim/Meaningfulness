@@ -1,3 +1,3 @@
 ## 📄 Effects of Object Meaningfulness on Working Memory
 
-[PDF 원본 보기](./results/meaninfulness_poster.pdf)
+![2024 인지과학회 포스터 발표](./meaninfulness_poster.jpg.png)
